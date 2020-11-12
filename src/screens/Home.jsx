@@ -41,7 +41,9 @@ const Home = () => {
 
     const onSubmit = (e) => {
         e.preventDefault();
-        onRedirect();
+        if (city.length > 2) {
+            onRedirect();
+        }
     };
 
     const onRedirect = () => {
