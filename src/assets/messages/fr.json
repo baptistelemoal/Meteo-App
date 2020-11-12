@@ -1,0 +1,17 @@
+{
+    "app": {
+        "home": {
+            "title": "Ville souhaitée",
+            "description": "Recherche vocale uniquement disponible sur Google Chrome",
+            "search": "Afficher",
+            "vocal": "Recherche vocale"
+        },
+        "detail": {
+            "not_found": "Aucune ville n'a été trouvée",
+            "back": "Retour à l'accueil"
+        },
+        "not_found": "Il n'y a pas de météo ici",
+        "english_version": "Version anglaise",
+        "french_version": "Version française"
+    }
+}

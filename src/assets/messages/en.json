@@ -1,0 +1,17 @@
+{
+    "app": {
+        "home": {
+            "title": "Desired city",
+            "description": "Voice search only available on Google Chrome",
+            "search": "Display",
+            "vocal": "Voice search"
+        },
+        "detail": {
+            "not_found": "No cities were found",
+            "back": "Back to home"
+        },
+        "not_found": "There is no weather here",
+        "english_version": "English version",
+        "french_version": "French version"
+    }
+}
